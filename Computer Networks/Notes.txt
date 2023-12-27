@@ -1,1 +1,12 @@
 computer networks
+
+DataLink Layer :
+1. Hop to hop delivery 
+    when message is to be delivered from A to B then what path is taken is decide by this layer.
+2. flow control
+    ARQ Protocol
+        1. stop and wait 
+        2. 
+        3. 
+3. Error Control
+4. Access Control
